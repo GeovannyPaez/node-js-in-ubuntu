@@ -15,13 +15,25 @@ Movemos el archivo descomprimido al home y lo renombramos como "nodejs"
 ```bash 
     $ mv node-v18.16.0-linux-x64 ~/nodejs
 ```    
-nos ubicamos donde esta la carpeta de nodejs que es en el home y ejecutamos el comando nano para editar el archivo .bashrc
+nos ubicamos donde esta la carpeta de nodejs que es en el home ejecutamos pwd para saber donde queda la ruta del ejecutable de node.
 ```bash 
    1. $ cd ..
    2. $ cd nodejs/bin
    3. $ pwd
     // /home/[user]/nodejs/bin
 
+  
+
+guardamos la ruta y volvemos al home.
+```bash 
+   4. $ cd ..
+   5. $ cd .. 
+   6. paez@paez-Nitro-AN515-44:~$ pwd
+      /home/paez
+
+```   
+ ejecutamos el comando nano para editar el archivo .bashrc
+```bash 
    4. $ nano .bashrc
 
 ```   
