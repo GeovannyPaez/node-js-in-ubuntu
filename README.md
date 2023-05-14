@@ -21,7 +21,7 @@ nos ubicamos donde esta la carpeta de nodejs que es en el home ejecutamos pwd pa
    2. $ cd nodejs/bin
    3. $ pwd
     // /home/[user]/nodejs/bin
-
+```
   
 
 guardamos la ruta y volvemos al home.
