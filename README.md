@@ -58,7 +58,7 @@ export PATH=$PATH:/home/paez/nodejs/bin
 ``` 
 Despues guardamos los cambios con Control X, aceptar y Enter para salir de la consola.
 
-Cerramos la consola y ejecutamos.
+Cerramos la consola, y por ultimo la volvemos abrir, ejecutamos.
 ```bash 
    paez@paez-Nitro-AN515-44:~$ node -v
    v18.16.0
