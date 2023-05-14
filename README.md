@@ -3,7 +3,7 @@
 
  - [Node Js](https://nodejs.org/es)
 
-## Installation
+## Instalacion
 
 Vamos a la carpeta de descargas y descomprimimos el archivo con tar
 
