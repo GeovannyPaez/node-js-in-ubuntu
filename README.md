@@ -11,10 +11,9 @@ Vamos a la carpeta de descargas y descomprimimos el archivo con tar
   1. $ cd ~/Descargas
   2. $ tar -xf node-v18.16.0-linux-x64.tar.xz
 ```
-Movemos el archivo descomprimido al home y lo renombramos com "nodejs"
+Movemos el archivo descomprimido al home y lo renombramos como "nodejs"
 ```bash 
     $ mv node-v18.16.0-linux-x64 ~/nodejs
-
 ```    
 nos ubicamos donde esta la carpeta de nodejs que es en el home y ejecutamos el comando nano para editar el archivo .bashrc
 ```bash 
