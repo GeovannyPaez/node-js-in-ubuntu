@@ -1,3 +1,4 @@
+# Pasos para instalar Node Js en Linux Ubuntu 22.04
 
 ## Primero descargamos la la ultima version de node en la pagina principal
 
