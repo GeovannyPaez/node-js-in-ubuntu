@@ -56,7 +56,7 @@ fi
 export PATH=$PATH:/home/paez/nodejs/bin
 
 ``` 
-Despues damos guardamos los cambios con Control X, aceptar y Enter para salir de la consola.
+Despues guardamos los cambios con Control X, aceptar y Enter para salir de la consola.
 
 Cerramos la consola y ejecutamos.
 ```bash 
